@@ -1,2 +1,2 @@
-# Valoroulette-
-Randomized Agent and Map picker
+# Valoroulette
+Randomized Agent and Map picker for funsies
