@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/valoroulette/static/css/main.de0f975e.css",
-    "main.js": "/valoroulette/static/js/main.c9599e73.js",
+    "main.css": "/valoroulette/static/css/main.5b783c73.css",
+    "main.js": "/valoroulette/static/js/main.40d0439f.js",
     "static/js/787.e9ad983e.chunk.js": "/valoroulette/static/js/787.e9ad983e.chunk.js",
     "index.html": "/valoroulette/index.html",
-    "main.de0f975e.css.map": "/valoroulette/static/css/main.de0f975e.css.map",
-    "main.c9599e73.js.map": "/valoroulette/static/js/main.c9599e73.js.map",
+    "main.5b783c73.css.map": "/valoroulette/static/css/main.5b783c73.css.map",
+    "main.40d0439f.js.map": "/valoroulette/static/js/main.40d0439f.js.map",
     "787.e9ad983e.chunk.js.map": "/valoroulette/static/js/787.e9ad983e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.de0f975e.css",
-    "static/js/main.c9599e73.js"
+    "static/css/main.5b783c73.css",
+    "static/js/main.40d0439f.js"
   ]
 }
