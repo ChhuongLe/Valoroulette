@@ -1,10 +1,11 @@
 import React, {useState} from 'react';
 import agentData from '../agents.json';
+import empty from '../images/emptyProfile.png';
 import "./agentTile.css";
 
 const AgentTile = () => {
-  const [agentName, setAgentName] = useState(agentData.agents[0].agentName);
-  const [agentIcon, setAgentIcon] = useState(agentData.agents[0].agentProfile);
+  const [agentName, setAgentName] = useState('None');
+  const [agentIcon, setAgentIcon] = useState(empty);
   const agentListSize = agentData.agents.length;
   const agentArr = agentData.agents;
 
@@ -17,8 +18,8 @@ const AgentTile = () => {
   }
 
   const clearAgent = () => {
-    setAgentName(agentArr[0].agentName);
-    setAgentIcon(agentArr[0].agentProfile);
+    setAgentName('None');
+    setAgentIcon(empty);
   }
 
   return (
