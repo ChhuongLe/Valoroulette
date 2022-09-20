@@ -1,12 +1,36 @@
-.Map-Title{
-  font-size: 30px;
-  color: red;
+.Map-Selector{
+  position: relative;
+  text-align: center;
+}
+
+.Map-Items{
+  position: absolute;
+  top: 100px;
+  left: 44%;
   margin-top: 20px;
 }
 
+.Map-Title{
+  font-size: 30px;
+  color: #dc3d4b;
+}
+
+.Map-Name{
+  font-size: 40px;
+}
+
 .Map-Image{
-  position: absolute;
+  margin-top: 100px;
   z-index: 1;
-  width: auto;
+  width: 1080px;
   height: auto;
+}
+
+.Map-Generator{
+  font-family: 'VALORANT', sans-serif;
+  border: none;
+  background-color: #04b3e5;
+  padding: 10px;
+  border-radius: 10px;
+  cursor: pointer;
 }

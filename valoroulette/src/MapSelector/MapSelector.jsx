@@ -5,12 +5,13 @@ import mapData from '../map.json';
 const MapSelector = () => {
   const [background, setBackground] = useState(0);
   const mapDataSize = mapData.maps.length;
-  let mapName = 'Not Selected', mapImage = 'https://img.redbull.com/images/c_crop,x_0,y_0,h_1080,w_1920/c_fill,w_670,h_377/q_auto,f_auto/redbullcom/2020/11/4/qcwrwni0ww9pkzkmidri/the-range-valorant-guide';
+  let mapName = 'Not Selected', mapImage = 'https://images6.alphacoders.com/120/1203270.jpg';
 
   // select random index from the mapData
   const randomize = () => {
     let selectedID = Math.random() * (mapDataSize);
     selectedID = Math.floor(selectedID);
+    console.log(selectedID);
 
     // traverse through the mapData and find the approiate map and image
   }
@@ -18,13 +19,12 @@ const MapSelector = () => {
   console.log(mapData);
   return (
     <div className="Map-Selector">
-      <div>
-        <div className="Map-Title">MAP</div>
-        <div className="Map-Name">Map Name</div>
-        <div>{mapName}</div>
-        <button onClick={randomize}>Randomize Map</button><br />
-      </div>
       <img className="Map-Image" src={mapImage} alt='no image'/>
+      <div className="Map-Items">
+        <div className="Map-Title">MAP</div>
+        <div className="Map-Name">{mapName}</div>
+        <button className="Map-Generator" onClick={randomize}>Randomize Map</button><br />
+      </div>
     </div>
   );
 }
