@@ -5,7 +5,8 @@
 }
 
 .Map-Image{
-  display: block;
+  position: absolute;
+  z-index: 1;
   width: auto;
   height: auto;
 }
