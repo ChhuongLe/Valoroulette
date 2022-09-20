@@ -1,7 +1,7 @@
 {
   "name": "valoroulette",
   "version": "0.1.0",
-  "homepage": "https://chhuongle.github.io/valoroulette/",
+  "homepage": "http://chhuongle.github.io/Valoroulette/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",

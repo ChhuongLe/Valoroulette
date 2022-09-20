@@ -1,0 +1,47 @@
+.Agent-Tile {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-areas:
+    ". header header"
+    "agentImage agentName agentName"
+    ". randomBtn clearBtn ";
+  position: absolute;
+  top: 275px;
+  left: 20%;
+  width: 300px;
+  height: 100px;
+  background-color: cyan;
+  border-radius: 5px;
+}
+
+.Heading {
+  grid-area: header;
+  margin-top: 10px;
+}
+
+.Agent-Image {
+  grid-area: agentImage;
+  width: 50px;
+  margin-left: 10px;
+  margin-top: -5px;
+}
+
+.Agent-Name{
+  grid-area: agentName;
+  font-size: 30px;
+  margin-top: 13px;
+}
+
+.Random{
+  grid-area: randomBtn;
+  border: none;
+  margin-right: 20px;
+  font-size: 10px;
+}
+
+.Clear{
+  grid-area: clearBtn;
+  border: none;
+  font-size: 10px;
+}

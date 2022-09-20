@@ -1,6 +1,7 @@
 import React, {useState} from 'react';
 import './MapSelector.css';
 import mapData from '../map.json';
+import AgentTile from '../agentTiles/agentTile'
 
 const MapSelector = () => {
   const [background, setBackground] = useState('https://images6.alphacoders.com/120/1203270.jpg');
@@ -28,6 +29,7 @@ const MapSelector = () => {
         <div className="Map-Name">{mapName}</div>
         <button className="Map-Generator" onClick={randomize}>Randomize Map</button><br />
       </div>
+      <AgentTile />
     </div>
   );
 }

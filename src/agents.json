@@ -1,0 +1,99 @@
+{
+  "agents": [
+    {
+      "agentID": "01",
+      "agentName": "Brimstone",
+      "agentProfile": "https://static.wikia.nocookie.net/valorant/images/3/35/Jett_icon.png/"
+    },
+    {
+      "agentID": "02",
+      "agentName": "Viper",
+      "agentProfile": "https://static.wikia.nocookie.net/valorant/images/5/5f/Viper_icon.png/"
+    },
+    {
+      "agentID": "03",
+      "agentName": "Omen",
+      "agentProfile": "https://static.wikia.nocookie.net/valorant/images/b/b0/Omen_icon.png/"
+    },
+    {
+      "agentID": "04",
+      "agentName": "Killjoy",
+      "agentProfile": "https://static.wikia.nocookie.net/valorant/images/1/15/Killjoy_icon.png/"
+    },
+    {
+      "agentID": "05",
+      "agentName": "Cypher",
+      "agentProfile": "https://static.wikia.nocookie.net/valorant/images/8/88/Cypher_icon.png/"
+    },
+    {
+      "agentID": "06",
+      "agentName": "Sova",
+      "agentProfile": "https://static.wikia.nocookie.net/valorant/images/4/49/Sova_icon.png/"
+    },
+    {
+      "agentID": "07",
+      "agentName": "Sage",
+      "agentProfile": "https://static.wikia.nocookie.net/valorant/images/7/74/Sage_icon.png/"
+    },
+    {
+      "agentID": "08",
+      "agentName": "Phoenix",
+      "agentProfile": "https://static.wikia.nocookie.net/valorant/images/1/14/Phoenix_icon.png/"
+    },
+    {
+      "agentID": "09",
+      "agentName": "Jett",
+      "agentProfile": "https://static.wikia.nocookie.net/valorant/images/3/35/Jett_icon.png/"
+    },
+    {
+      "agentID": "10",
+      "agentName": "Reyna",
+      "agentProfile": "https://static.wikia.nocookie.net/valorant/images/b/b0/Reyna_icon.png/"
+    },
+    {
+      "agentID": "11",
+      "agentName": "Raze",
+      "agentProfile": "https://static.wikia.nocookie.net/valorant/images/9/9c/Raze_icon.png/"
+    },
+    {
+      "agentID": "12",
+      "agentName": "Breach",
+      "agentProfile": "https://static.wikia.nocookie.net/valorant/images/5/53/Breach_icon.png/"
+    },
+    {
+      "agentID": "13",
+      "agentName": "Skye",
+      "agentProfile": "https://static.wikia.nocookie.net/valorant/images/3/33/Skye_icon.png/"
+    },
+    {
+      "agentID": "14",
+      "agentName": "Yoru",
+      "agentProfile": "https://static.wikia.nocookie.net/valorant/images/d/d4/Yoru_icon.png/"
+    },
+    {
+      "agentID": "15",
+      "agentName": "Astra",
+      "agentProfile": "https://static.wikia.nocookie.net/valorant/images/0/08/Astra_icon.png/"
+    },
+    {
+      "agentID": "16",
+      "agentName": "KAY/O",
+      "agentProfile": "https://static.wikia.nocookie.net/valorant/images/f/f0/KAYO_icon.png/"
+    },
+    {
+      "agentID": "17",
+      "agentName": "Chamber",
+      "agentProfile": "https://static.wikia.nocookie.net/valorant/images/0/09/Chamber_icon.png/"
+    },
+    {
+      "agentID": "18",
+      "agentName": "Neon",
+      "agentProfile": "https://static.wikia.nocookie.net/valorant/images/d/d0/Neon_icon.png/"
+    },
+    {
+      "agentID": "19",
+      "agentName": "Fade",
+      "agentProfile": "https://static.wikia.nocookie.net/valorant/images/a/a6/Fade_icon.png/"
+    }
+  ]
+}

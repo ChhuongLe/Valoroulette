@@ -1,6 +1,5 @@
 import './App.css';
 import React from 'react';
-import AgentTile from './agentTiles/agentTile';
 import MapSelector from './MapSelector/MapSelector';
 
 function App() {
