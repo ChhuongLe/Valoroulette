@@ -3,23 +3,26 @@ import './MapSelector.css';
 import mapData from '../map.json';
 
 const MapSelector = () => {
-  const [background, setBackground] = useState(0);
+  const [background, setBackground] = useState('https://images6.alphacoders.com/120/1203270.jpg');
+  const [mapName, setMapName] = useState('None');
   const mapDataSize = mapData.maps.length;
-  let mapName = 'Not Selected', mapImage = 'https://images6.alphacoders.com/120/1203270.jpg';
+  const mapArr = mapData.maps;
 
   // select random index from the mapData
   const randomize = () => {
-    let selectedID = Math.random() * (mapDataSize);
+    let selectedID = Math.random() * (mapDataSize - 1) + 1;
     selectedID = Math.floor(selectedID);
     console.log(selectedID);
 
     // traverse through the mapData and find the approiate map and image
+    setMapName(mapArr[selectedID].mapName);
+    let mapImage = mapArr[selectedID].backgroundURL;
+    setBackground(mapImage);
   }
 
-  console.log(mapData);
   return (
     <div className="Map-Selector">
-      <img className="Map-Image" src={mapImage} alt='no image'/>
+      <img className="Map-Image" src={background} alt='no image'/>
       <div className="Map-Items">
         <div className="Map-Title">MAP</div>
         <div className="Map-Name">{mapName}</div>

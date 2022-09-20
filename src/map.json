@@ -2,7 +2,7 @@
   "maps": [
     {
       "mapID": 0,
-      "backgroundURL": "https://static.wikia.nocookie.net/valorant/images/3/37/Loading_Screen_Range.png",
+      "backgroundURL": "/home/chhuongle/Valoroulette-/src/Images/Default.jpg",
       "mapName": "None"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "mapID": 2,
-      "backgroundURL": "https://static.wikia.nocookie.net/valorant/images/7/70/Loading_Screen_Haven.png",
+      "backgroundURL": "https://images3.alphacoders.com/120/1203277.jpg",
       "mapName": "Haven"
     },
     {
