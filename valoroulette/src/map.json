@@ -2,47 +2,47 @@
   "maps": [
     {
       "mapID": 0,
-      "backgroundURL": "https://static.wikia.nocookie.net/valorant/images/3/37/Loading_Screen_Range.png/revision/latest/scale-to-width-down/1000?cb=20200607180003",
+      "backgroundURL": "https://static.wikia.nocookie.net/valorant/images/3/37/Loading_Screen_Range.png",
       "mapName": "None"
     },
     {
       "mapID": 1,
-      "backgroundURL": "https://static.wikia.nocookie.net/valorant/images/2/23/Loading_Screen_Bind.png/revision/latest/scale-to-width-down/1000?cb=20200620202316",
+      "backgroundURL": "https://static.wikia.nocookie.net/valorant/images/2/23/Loading_Screen_Bind.png",
       "mapName": "Bind"
     },
     {
       "mapID": 2,
-      "backgroundURL": "https://static.wikia.nocookie.net/valorant/images/7/70/Loading_Screen_Haven.png/revision/latest/scale-to-width-down/1000?cb=20200620202335",
+      "backgroundURL": "https://static.wikia.nocookie.net/valorant/images/7/70/Loading_Screen_Haven.png",
       "mapName": "Haven"
     },
     {
       "mapID": 3,
-      "backgroundURL": "https://static.wikia.nocookie.net/valorant/images/d/d6/Loading_Screen_Split.png/revision/latest/scale-to-width-down/1000?cb=20200620202349",
+      "backgroundURL": "https://static.wikia.nocookie.net/valorant/images/d/d6/Loading_Screen_Split.png",
       "mapName": "Split"
     },
     {
       "mapID": 4,
-      "backgroundURL": "https://static.wikia.nocookie.net/valorant/images/e/e7/Loading_Screen_Ascent.png/revision/latest/scale-to-width-down/1000?cb=20200607180020",
+      "backgroundURL": "https://static.wikia.nocookie.net/valorant/images/e/e7/Loading_Screen_Ascent.png",
       "mapName": "Ascent"
     },
     {
       "mapID": 5,
-      "backgroundURL": "https://static.wikia.nocookie.net/valorant/images/1/13/Loading_Screen_Icebox.png/revision/latest/scale-to-width-down/1000?cb=20201015084446",
+      "backgroundURL": "https://static.wikia.nocookie.net/valorant/images/1/13/Loading_Screen_Icebox.png",
       "mapName": "Icebox"
     },
     {
       "mapID": 6,
-      "backgroundURL": "https://static.wikia.nocookie.net/valorant/images/1/10/Loading_Screen_Breeze.png/revision/latest/scale-to-width-down/1000?cb=20210427160616",
+      "backgroundURL": "https://static.wikia.nocookie.net/valorant/images/1/10/Loading_Screen_Breeze.png",
       "mapName": "Breeze"
     },
     {
       "mapID": 7,
-      "backgroundURL": "https://static.wikia.nocookie.net/valorant/images/f/fc/Loading_Screen_Fracture.png/revision/latest/scale-to-width-down/1000?cb=20210908143656",
+      "backgroundURL": "https://static.wikia.nocookie.net/valorant/images/f/fc/Loading_Screen_Fracture.png",
       "mapName": "Fracture"
     },
     {
       "mapID": 8,
-      "backgroundURL": "https://static.wikia.nocookie.net/valorant/images/a/af/Loading_Screen_Pearl.png/revision/latest/scale-to-width-down/1000?cb=20220622132842",
+      "backgroundURL": "https://static.wikia.nocookie.net/valorant/images/a/af/Loading_Screen_Pearl.png",
       "mapName": "Pearl"
     }
   ]

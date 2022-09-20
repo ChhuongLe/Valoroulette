@@ -1,0 +1,11 @@
+.Map-Title{
+  font-size: 30px;
+  color: red;
+  margin-top: 20px;
+}
+
+.Map-Image{
+  display: block;
+  width: auto;
+  height: auto;
+}
