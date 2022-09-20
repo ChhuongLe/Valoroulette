@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Valoroulette/static/css/main.b8f2e3ad.css",
-    "main.js": "/Valoroulette/static/js/main.9dae8129.js",
+    "main.css": "/Valoroulette/static/css/main.dca61ce3.css",
+    "main.js": "/Valoroulette/static/js/main.c0dfcf63.js",
     "static/js/787.e9ad983e.chunk.js": "/Valoroulette/static/js/787.e9ad983e.chunk.js",
+    "static/media/emptyProfile.png": "/Valoroulette/static/media/emptyProfile.39e3d03be5b3188030aa.png",
     "index.html": "/Valoroulette/index.html",
-    "main.b8f2e3ad.css.map": "/Valoroulette/static/css/main.b8f2e3ad.css.map",
-    "main.9dae8129.js.map": "/Valoroulette/static/js/main.9dae8129.js.map",
+    "main.dca61ce3.css.map": "/Valoroulette/static/css/main.dca61ce3.css.map",
+    "main.c0dfcf63.js.map": "/Valoroulette/static/js/main.c0dfcf63.js.map",
     "787.e9ad983e.chunk.js.map": "/Valoroulette/static/js/787.e9ad983e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8f2e3ad.css",
-    "static/js/main.9dae8129.js"
+    "static/css/main.dca61ce3.css",
+    "static/js/main.c0dfcf63.js"
   ]
 }
