@@ -1,6 +1,11 @@
 {
   "agents": [
     {
+      "agentID": "00",
+      "agentName": "None",
+      "agentProfile": "https://www.pngfind.com/pngs/m/91-912146_empty-png-icon-empty-transparent-png.png"
+    },
+    {
       "agentID": "01",
       "agentName": "Brimstone",
       "agentProfile": "https://static.wikia.nocookie.net/valorant/images/3/35/Jett_icon.png/"

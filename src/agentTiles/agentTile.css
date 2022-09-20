@@ -18,12 +18,13 @@
 .Heading {
   grid-area: header;
   margin-top: 10px;
+  text-align: center;
 }
 
 .Agent-Image {
   grid-area: agentImage;
-  width: 50px;
-  margin-left: 10px;
+  width: 60px;
+  margin-left: 16px;
   margin-top: -5px;
 }
 
@@ -31,6 +32,7 @@
   grid-area: agentName;
   font-size: 30px;
   margin-top: 13px;
+  text-align: center;
 }
 
 .Random{
@@ -38,10 +40,15 @@
   border: none;
   margin-right: 20px;
   font-size: 10px;
+  margin-top: -10px;
+  margin-bottom: 3px;
 }
 
 .Clear{
   grid-area: clearBtn;
   border: none;
   font-size: 10px;
+  margin-right: 20px;
+  margin-top: -10px;
+  margin-bottom: 3px;
 }
