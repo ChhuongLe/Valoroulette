@@ -6,12 +6,12 @@
     ". header header"
     "agentImage agentName agentName"
     ". randomBtn clearBtn ";
-  position: absolute;
-  top: 275px;
-  width: 300px;
+  position: relative;
+  width: 400px;
   height: 100px;
-  background-color: cyan;
+  background-color: #008A97;
   border-radius: 5px;
+  margin-bottom: 10px;
 }
 
 .Heading {
@@ -23,7 +23,7 @@
 .Agent-Image {
   grid-area: agentImage;
   width: 60px;
-  margin-left: 16px;
+  margin-left: 25px;
   margin-top: -5px;
 }
 

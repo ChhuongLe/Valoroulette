@@ -7,8 +7,8 @@
 .Map-Items{
   z-index: 1;
   position: absolute;
-  top: 100px;
-  left: 48%;
+  top: 50px;
+  left: 44%;
   margin-top: 10px;
   text-align: center;
 }
@@ -24,17 +24,23 @@
 }
 
 .Map-Image{
-  margin-top: 100px;
   z-index: 0;
-  width: 1080px;
+  width: 100%;
   height: auto;
 }
 
-.Map-Generator{
+.Map-Button{
   font-family: 'VALORANT', sans-serif;
   border: none;
   background-color: #04b3e5;
   padding: 10px;
   border-radius: 10px;
   cursor: pointer;
+}
+
+.Attacking-Agents {
+  position: absolute;
+  margin-top: 230px;
+  margin-right:920px;
+  z-index: 3;
 }

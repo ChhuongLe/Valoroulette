@@ -25,7 +25,7 @@ const AgentTile = () => {
   return (
     <div className="Agent-Tile">
       <div className="Heading">Agent Name</div>
-      <img className="Agent-Image" src={agentIcon}/>
+      <img className="Agent-Image" src={agentIcon} alt="cannot display"/>
       <div className="Agent-Name">{agentName}</div>
       <button className="Random" onClick={randomAgent}>Random Agent</button>
       <button className="Clear" onClick={clearAgent}>Clear</button>
